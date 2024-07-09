@@ -1,4 +1,4 @@
-# My VSCode Settings.
+# My VSCode Settings
 
 This is my collection of settings and extensions that i used in VSCode
 
@@ -18,7 +18,7 @@ for Font
 
 Here are the list on Extensions that i'm using this days (We will update this post if we changed our Extensions) :
 
-1. <a href="https://github.com/mike7515/code-beautifier" target="_blank">Beautify :</a> Beautify css, sass and less code (extension for Visual Studio Code, Note: you can enable the **"Format On Save"** in VSCode settings to use beautify on save.)
+1. <a href="https://github.com/mike7515/code-beautifier" target="_blank">Beautify :</a> Beautify css, sass and less code. Extension for Visual Studio Code, Note: you can enable the **"Format On Save"** in VSCode settings to use beautify on save.
 
 2. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Error Lens :</a> Improve highlighting of errors, warnings and other language diagnostics.
 
