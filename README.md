@@ -28,7 +28,7 @@ Here are the list on Extensions that i'm using this days (We will update this po
 
 5. <a href="https://github.com/vscode-icons/vscode-icons" target="_blank">VSCode Icons :</a> Icons for Visual Studio Code (files icons).
 
-6. <a href="https://github.com/kufii/CodeSnap" target="_blank">CodeSnap :</a> Extension for Taking a Neat screenshots on your code in VSCode
+6. <a href="https://github.com/kufii/CodeSnap" target="_blank">CodeSnap :</a> Extension for taking a neat screenshots of your code in VSCode
 
 ## My Live Code Result Extensions
 
