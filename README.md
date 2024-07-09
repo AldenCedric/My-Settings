@@ -51,4 +51,4 @@ But Here are the list of six themes i recommend :
 
 # Note That
 
-If you find this README.md file helpful please Star + My Bio Follow my<a href="https://github.com/AldenCedric/About-Me" target="_blank">github.</a>
+If you find this README.md file helpful please Star + @My Bio Follow my github
