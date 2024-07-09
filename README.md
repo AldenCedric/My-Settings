@@ -1,6 +1,6 @@
 # My VSCode Settings.
 
-My Bio <a href="https://github.com/AldenCedric/About-Me" target="_blank">AldenCedric</a>
+This is my collection of settings and extensions that i used in VSCode
 
 # Settings
 
@@ -8,11 +8,11 @@ Here are my vscode settings for Font and Cursor :
   
 Search for **"Cursor"** in VSCode settings and set this for cursor animations:
 
-![screenshot-1](screenshot-1.jpg)
+![screenshot-1](screenshot-1.png)
 
 for Font
 
-![screenshot-1](screenshot-2.jpg)
+![screenshot-1](screenshot-2.png)
 
 # Extensions List & Usage
 
@@ -49,4 +49,4 @@ But Here are the list of six themes i recommend :
 
 # Note That
 
-If you find this README.md file helpful please Star + Follow my github.
+If you find this README.md file helpful please Star + My Bio <a href="https://github.com/AldenCedric/About-Me" target="_blank">Follow my github.</a>
