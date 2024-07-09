@@ -28,6 +28,8 @@ Here are the list on Extensions that i'm using this days (We will update this po
 
 5. <a href="https://github.com/vscode-icons/vscode-icons" target="_blank">VSCode Icons :</a> Icons for Visual Studio Code (files icons).
 
+6. <a href="https://github.com/kufii/CodeSnap" target="_blank">CodeSnap :</a> Extension for Taking a Neat screenshots on your code in VSCode
+
 ## My Live Code Result Extensions
 
 1. <a href="https://github.com/ritwickdey/vscode-live-server" target="_blank">Live Server :</a> Launch a development local Server with live reload feature for static & dynamic pages.
@@ -49,4 +51,4 @@ But Here are the list of six themes i recommend :
 
 # Note That
 
-If you find this README.md file helpful please Star + My Bio <a href="https://github.com/AldenCedric/About-Me" target="_blank">Follow my github.</a>
+If you find this README.md file helpful please Star + My Bio Follow my<a href="https://github.com/AldenCedric/About-Me" target="_blank">github.</a>
